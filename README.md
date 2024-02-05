@@ -1,4 +1,12 @@
 # Django-Dash-Token-Authentication
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-pBvv8mzLpj0k-RIbc2Nog?style=social)
+![Discord](https://img.shields.io/discord/396334922522165248)
+![GitHub followers](https://img.shields.io/github/followers/pip-install-python?style=social)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/PipInstallPython?style=social)
+[![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/pip-install-python)
+
+[![Project Software](https://skills.thijs.gg/icons?i=linux,django,flask,py,react,postgres,fastapi,js,html,css,)](https://community.plotly.com/t/django-dash-token-authentication/82088)
 
 ![Django Dash Token Authentication](assets/branding/django-dash-token-authentication.png)
 
@@ -63,6 +71,8 @@ Follow these steps to get your development environment set up:
     python manage.py createsuperuser
     python manage.py runserver
     ```
+  Navigate to `http://127.0.0.1:8000/admin` and create a profile to match your django account.
+
 
 - **Integrating Dash Apps:**
   ```
